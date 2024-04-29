@@ -1,0 +1,67 @@
+{
+    "data": [
+        {
+            "id":1,
+            "name":"Getting Over",
+            "album":"One Love",
+            "cover":"",
+            "artist": {
+                "name": "David Guetta",
+                "nickname": "David Guetta",
+                "nationality": "FR"
+            },
+            "duration": {
+                "start": 0,
+                "end": 333
+            },
+            "url":""
+        },
+        {
+            "id":1,
+            "name":"Getting Over",
+            "album":"One Love",
+            "cover":"",
+            "artist": {
+                "name": "David Guetta",
+                "nickname": "David Guetta",
+                "nationality": "FR"
+            },
+            "duration": {
+                "start": 0,
+                "end": 333
+            },
+            "url":""
+        }, {
+            "id":1,
+            "name":"Getting Over",
+            "album":"One Love",
+            "cover":"",
+            "artist": {
+                "name": "David Guetta",
+                "nickname": "David Guetta",
+                "nationality": "FR"
+            },
+            "duration": {
+                "start": 0,
+                "end": 333
+            },
+            "url":""
+        }, {
+            "id":1,
+            "name":"Getting Over",
+            "album":"One Love",
+            "cover":"",
+            "artist": {
+                "name": "David Guetta",
+                "nickname": "David Guetta",
+                "nationality": "FR"
+            },
+            "duration": {
+                "start": 0,
+                "end": 333
+            },
+            "url":""
+        }
+    ]
+
+}
