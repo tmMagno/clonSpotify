@@ -6,8 +6,8 @@ import { RouterModule, Routes } from '@angular/router';
 
 const routes: Routes = [
   {
-    path: '' //Cunado es vacio se dirije al localhost
-    
+    path: '',
+    loadChildren: ()=> import(`./modules/home/home.module`).then(m => m.HomeModule )
   }
 ];
 
